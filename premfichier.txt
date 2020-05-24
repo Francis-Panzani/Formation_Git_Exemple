@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est B2A0-9C24
+
+ R‚pertoire de C:\Users\fpanzani\Desktop\git\Formation_Git_Exemple
+
+24/05/2020  19:16    <DIR>          .
+24/05/2020  19:16    <DIR>          ..
+23/05/2020  20:55               225 index.html
+23/05/2020  21:03               225 IndexWeb.html
+24/05/2020  19:16                 0 premfichier.txt
+23/05/2020  20:45                64 Premier fichier contribuer.txt
+23/05/2020  19:04               149 README.md
+               5 fichier(s)              663 octets
+               2 R‚p(s)  142ÿ912ÿ958ÿ464 octets libres
