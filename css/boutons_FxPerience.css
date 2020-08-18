@@ -1,0 +1,8 @@
+@import "boutons.css";
+VBox{
+-fx-background-color:lightgreen;
+}
+HBox, VBox {
+    -fx-alignment: center ;
+    -fx-padding: 10 ;
+}
