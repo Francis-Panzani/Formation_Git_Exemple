@@ -1,4 +1,7 @@
 @import "boutons.css";
+#test{
+-fx-background-color:lightgreen;
+}
 VBox{
 -fx-background-color:lightgreen;
 }
